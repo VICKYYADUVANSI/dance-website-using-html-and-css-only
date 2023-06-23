@@ -1,0 +1,484 @@
+@media(min-width:320px) and (max-width:767px){
+.container{ width:90%; margin:0 5%;}    
+.mobile-display-none{ display:none;}
+.mobile-display{ display:block;}    
+.main-heading h1 {
+
+    font-size: 30px;
+}
+body p {
+
+    font-size: 15px;
+    line-height: 25px;
+    letter-spacing: 1px;
+}
+/*----------------------------------------------------------------*/
+.logo-25 {
+    width: 100%;
+   
+    text-align: center;
+}   
+.mobile-icon{ width:100%; float:left;}  
+    
+.mobile-icon ul{
+    width: 100%;
+    float: left;
+}
+.mobile-icon ul li{
+    display: inline-block;
+    width: 15%;
+    float: left;
+}   
+    
+.mobile-icon ul li a{
+    font-size: 17px;
+    color: #2e2c2c;
+}   
+.mobile-icon ul li .fa{font-size: 22px;color: #673ab7;}
+.w-70{width: 70% !important;}   
+    
+/*-------------------------nav---------------------------------------*/
+    
+    
+.nav-90 {
+    width: 100%;
+}   
+    
+.nav-90-100 ul li {
+ 
+    padding: 0 10px;
+}   
+.nav-90-100 ul li a {
+   
+    letter-spacing: 0px;
+    font-size: 14px;
+}   
+    .nav-90-100 ul {
+
+    text-align: center;
+}
+.nav-10 {
+  
+    text-align: center;
+}   
+    
+.nav-10{ width:100%;}   
+    
+    
+/*------------------------------banner----------------------------------*/
+    
+.banner-area {
+
+    padding: 10px 0;
+
+}   
+    
+.banner-inr h3 {
+    margin: 10px 0;
+    font-size: 15px;
+}   
+    
+.banner-inr h1 {
+    font-size: 25px;
+ 
+    margin-bottom: 10px;
+}   
+    
+.button-area a button {
+    font-size: 12px;
+  
+    padding: 9px;
+  
+}   
+    
+.banner-inr img {
+    width: 74px;
+}   
+    
+/*---------------------------------about-------------------------------*/
+    
+    .about-50 {
+    width: 100%;
+    padding: 0;
+    margin-bottom: 30px;
+}
+    
+.about-50-100 h2 {
+ 
+    margin-bottom: 30px;
+    font-size: 20px;
+    line-height: 30px;
+}   
+    
+.classes-33 {
+    width: 100%;
+    padding: 0;
+    margin-bottom: 30px;
+}   
+    
+.classes-33-100 h3 {
+    width: 96%;
+   
+    padding: 2%;
+    font-size: 18px;
+    margin-top: -33px;
+}   
+    
+    
+.classes-33-100 ul li .align-left img {
+    width: 35px;
+    margin-right: 8px;
+}
+.classes-33-100 ul li .align-left {
+    width: 58%;
+  
+}   
+    
+.classes-33-100 ul li .align-right {
+    width: 42%;
+  
+    line-height: 38px;
+ 
+    font-size: 14px;
+}   
+    
+.banner-2 .banner-inr {
+    text-align: center;
+}   
+    
+.contact-70 {
+    width: 100%;
+    margin-bottom: 30px;
+}   
+.contact-70-100 h2 {
+    padding-left: 18px;
+    font-size: 20px;
+  
+
+    border-left: 2px solid #fff;
+    margin-top: 0;
+}   
+    
+    
+.contact-30 {
+    width: 100%;
+
+}   
+.coaches-33 {
+    width: 100%;
+ 
+    padding: 0;
+    margin-bottom: 30px;
+}
+.testi-50 {
+    width: 100%;
+
+    padding: 0;
+    margin-bottom: 30px;
+}
+.testi-50-100-30 {
+    width: 100%;
+  
+}
+.testi-50-100-70 {
+    width: 99.6%;
+
+}
+.contact-50 {
+    width: 100%;
+ 
+}   
+.form-group {
+
+    margin-bottom: 15px;
+}
+.form-lbl {
+    width: 100%;
+
+    margin-bottom: 10px;
+}
+.form-inpt {
+    width: 94.5%;
+    padding: 2%;
+
+    border: 2px solid #a250ef;
+}
+.form-txt {
+    width: 94.5%;
+ 
+    padding: 2%;
+ 
+    border: 2px solid #a250ef;
+  
+    height: 150px;
+}
+.form-btn {
+    font-size: 15px;
+
+    padding: 13px;
+
+}
+.map-50 {
+    width: 100%;
+}
+.map-50-100 iframe {
+    height: 400px;
+   
+}
+}
+
+@media(min-width:768px) and (max-width:991px){
+.container{width: 96%;margin: 0 2%;}    +
+.tablet-display-none{ display:none;}
+.tablet-display{ display:block;}    
+.main-heading h1 {
+
+    font-size: 30px;
+}
+body p {
+
+font-size: 14px;
+
+line-height: 24px;
+
+letter-spacing: 0px;
+}
+/*----------------------------------------------------------------*/
+.logo-25 {width: 24%;padding: 0 1%;}   
+.mobile-icon{ width:100%; float:left;}  
+    
+.mobile-icon ul{
+    width: 100%;
+    float: left;
+}
+.mobile-icon ul li{
+    display: inline-block;
+    width: 15%;
+    float: left;
+}   
+    
+.mobile-icon ul li a{
+    font-size: 17px;
+    color: #2e2c2c;
+}   
+.mobile-icon ul li .fa{font-size: 22px;color: #673ab7;}
+.w-70{width: 70% !important;}   
+   .logo-25-100 .fa {
+
+font-size: 15px;
+
+width: 5%;
+
+margin-right: 2%;
+} 
+.logo-25-100 a {
+
+font-size: 13px;
+
+font-weight: 400;
+
+width: 93%;
+}
+
+.tab-20{
+    width: 20%;
+    padding: 0 1%;
+}
+    .logo-25-100 img {width: 100%;}
+/*-------------------------nav---------------------------------------*/
+    
+    
+.nav-90 {
+}   
+    
+.nav-90-100 ul li {
+ 
+    padding: 0 10px;
+}   
+.nav-90-100 ul li a {
+   
+letter-spacing: 0px;
+   
+font-size: 14px;
+}   
+    .nav-90-100 ul {
+
+text-align: left;
+}
+.nav-10 {
+  
+    text-align: center;
+}   
+    
+.nav-10{}   
+    
+.logo-area {
+   
+    padding-bottom: 0;
+}   
+/*------------------------------banner----------------------------------*/
+    
+.banner-area {
+
+padding: 40px 0;
+}   
+    
+.banner-inr h3 {
+    margin: 20px 0;
+    font-size: 37px;
+}   
+    
+.banner-inr h1 {
+    font-size: 46px;
+    margin-bottom: 20px;
+}   
+    
+.button-area a button {
+    font-size: 12px;
+  
+    padding: 9px;
+  
+}   
+    
+.banner-inr img {
+    width: 74px;
+}   
+    
+/*---------------------------------about-------------------------------*/
+    
+    .about-50 {
+    margin-bottom: 30px;
+}
+    
+.about-50-100 h2 {
+ 
+margin-bottom: 10px;
+ 
+font-size: 20px;
+ 
+line-height: 30px;
+}   
+    
+.classes-33 {
+}   
+    
+.classes-33-100 h3 {
+    width: 96%;
+   
+    padding: 2%;
+    font-size: 18px;
+    margin-top: -33px;
+}   
+    
+    
+.classes-33-100 ul li .align-left img {
+    width: 25px;
+    margin-right: 0;
+}
+.classes-33-100 ul li .align-left {
+    width: 50%;
+    font-size: 13px;
+    line-height: 30px;
+}   
+    
+.classes-33-100 ul li .align-right {
+    width: 50%;
+    line-height: 30px;
+    font-size: 12px;
+    font-weight: 600;
+}   
+    
+.banner-2 .banner-inr {
+    text-align: center;
+}   
+    
+.contact-70 {
+}   
+.contact-70-100 h2 {
+    line-height: 44px;
+    padding-left: 18px;
+    font-size: 25px;
+    border-left: 2px solid #fff;
+    margin-top: 0;
+}   
+    
+    
+.contact-30 {
+}   
+.coaches-33 {
+    margin-bottom: 30px;
+}
+.testi-50 {
+}
+.testi-50-100-30 {width: 47%;}
+.testi-50-100-70 {width: 51.6%;}
+.contact-50 {
+}   
+.form-group {
+
+    margin-bottom: 15px;
+}
+.form-lbl {
+    width: 100%;
+
+    margin-bottom: 10px;
+}
+.form-inpt {
+    width: 94.5%;
+    padding: 2%;
+
+    border: 2px solid #a250ef;
+}
+.form-txt {
+    width: 94.5%;
+ 
+    padding: 2%;
+ 
+    border: 2px solid #a250ef;
+  
+    height: 150px;
+}
+.form-btn {
+    font-size: 15px;
+
+    padding: 13px;
+
+}
+.map-50 {
+}
+.map-50-100 iframe {height: 673px;}
+    .text-area h3 {
+    margin: 13px 0;
+    font-size: 20px;
+
+}
+    .text-area h2 {
+    font-size: 25px;
+}
+    .text-area p {
+    font-size: 14px;
+}
+    .testi-50-100-70-100 {
+    width: 94%;
+    padding: 3%;
+}
+    .testi-50-100-70-100 h2 {
+    font-size: 18px;
+
+    letter-spacing: 0px;
+}
+    .testi-50-100-70-100 p {
+    font-size: 14px;
+    line-height: 20px;
+}
+    .testi-50-100-70-100 ul li {
+   
+    margin-top: 6px;
+    margin-right: 11px;
+    font-size: 15px;
+}
+    .testi-50-100-30-100 img {
+
+    height: 329px;
+}
+}
